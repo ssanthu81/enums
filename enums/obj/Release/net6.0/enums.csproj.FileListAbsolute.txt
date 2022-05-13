@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/inheritance/enums/bin/Release/net6.0/enums
+/Users/denashivanandareddypitta/Projects/inheritance/enums/bin/Release/net6.0/enums.deps.json
+/Users/denashivanandareddypitta/Projects/inheritance/enums/bin/Release/net6.0/enums.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/inheritance/enums/bin/Release/net6.0/enums.dll
+/Users/denashivanandareddypitta/Projects/inheritance/enums/bin/Release/net6.0/enums.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/enums/obj/Release/net6.0/enums.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/inheritance/enums/obj/Release/net6.0/enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/inheritance/enums/obj/Release/net6.0/enums.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/enums/obj/Release/net6.0/enums.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/inheritance/enums/obj/Release/net6.0/enums.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/enums/obj/Release/net6.0/enums.dll
+/Users/denashivanandareddypitta/Projects/inheritance/enums/obj/Release/net6.0/refint/enums.dll
+/Users/denashivanandareddypitta/Projects/inheritance/enums/obj/Release/net6.0/enums.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/enums/obj/Release/net6.0/enums.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/inheritance/enums/obj/Release/net6.0/ref/enums.dll
